@@ -2,6 +2,8 @@
 
 **What's This AI** is a Node.js application that leverages the power of various APIs including Facebook's WhatsApp, OpenAI, SERP API, and Cloudinary, to provide users with detailed information about objects in images sent through WhatsApp. By integrating advanced technologies, this app identifies products, items, or things in images and enriches users' knowledge about them with descriptions, and potentially, reviews and purchasing options in the future.
 
+[View demo video](https://youtu.be/YuBmIOKicqA)
+
 ## Features
 
 - **Image Identification:** Users send an image via WhatsApp, and the app identifies the object using SERP Google Lens reverse image search for precise product names.
